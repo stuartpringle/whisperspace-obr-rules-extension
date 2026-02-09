@@ -19,6 +19,10 @@ npm run dev
 
 Load `dist/manifest.json` in Owlbear Rodeo after building.
 
+## Hosting
+- Target: `https://obr.whisperspace.com/rules/manifest.json` (or separate subdomain if preferred)
+- Build output: `dist/`
+
 ## Related Repos
 
 - Character sheet extension: `whisperspace-obr-extension`
